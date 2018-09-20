@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/patternfly/patternfly-timeline"
   },
-  "dependencies": {
+  "peerDependencies": {
     "d3": "~3.5.17",
     "patternfly": "~3.25.0"
   },
