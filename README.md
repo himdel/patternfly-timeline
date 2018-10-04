@@ -5,6 +5,8 @@ The original upstream - https://github.com/patternfly/patternfly-timeline is app
 
 Forking the repo to fix npm/yarn - releasing as @pf3/timeline .
 
+Build note: running `npm install ; npm run build` fails with node8+, forcing node6 for now.
+
 ---
 
 

@@ -52,6 +52,9 @@
     "build": "webpack -p --optimize-minimize --optimize-occurence-order --optimize-dedupe --progress --devtool source-map",
     "start": "webpack-dev-server --colors --inline --devtool source-map --host=0.0.0.0"
   },
+  "engines": {
+    "node": "< 8.0.0"
+  },
   "author": "Chris Shinn <cshinn@redhat.com> (https://github.com/cshinn)",
   "license": "MIT"
 }
