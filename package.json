@@ -1,6 +1,6 @@
 {
   "name": "@pf3/timeline",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A time based / event series interactive visualization using d3.js. Use drag and zoom to navigate in time.",
   "main": "dist/timeline.js",
   "repository": {
