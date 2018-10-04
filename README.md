@@ -1,6 +1,13 @@
 patternfly-timeline
 ==========
 
+The original upstream - https://github.com/patternfly/patternfly-timeline is apparently dead.
+
+Forking the repo to fix npm/yarn - releasing as @pf3/timeline .
+
+---
+
+
 A time based/event series interactive visualization using d3.js. Use drag and zoom to navigate in time. [View the demo here.](https://rawgit.com/patternfly/patternfly-timeline/master-dist/demo/)
 
 Based on the [EventDrops](https://github.com/marmelab/EventDrops) timeline.
